@@ -1,0 +1,25 @@
+@import './base.css';
+
+#app {
+  margin: 0 auto;
+
+
+  .landing-page {
+      display: flex;
+      flex-direction: column;
+    }
+
+  .search-bar {
+    display: block;
+  }
+
+ 
+}
+
+input {
+  border: 1px solid green;
+}
+
+button {
+  border: 1px solid red;
+}

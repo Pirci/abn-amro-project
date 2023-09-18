@@ -1,0 +1,150 @@
+{
+    "results": [
+        {
+            "type": "people",
+            "first_name": "John",
+            "last_name": "Doe",
+            "age": 30,
+            "email": "john.doe@example.com"
+        },
+        {
+            "type": "people",
+            "first_name": "Jane",
+            "last_name": "Doe",
+            "age": 28,
+            "email": "jane.doe@example.com"
+        },
+        {
+            "type": "people",
+            "first_name": "Emily",
+            "last_name": "Smith",
+            "age": 40,
+            "email": "emily.smith@example.com"
+        },
+        {
+            "type": "address",
+            "house_number": "123",
+            "postcode": "12345",
+            "city": "New York",
+            "state": "NY"
+        },
+        {
+            "type": "address",
+            "house_number": "789",
+            "postcode": "67890",
+            "city": "Los Angeles",
+            "state": "CA"
+        },
+        {
+            "type": "address",
+            "house_number": "456",
+            "postcode": "45678",
+            "city": "Chicago",
+            "state": "IL"
+        },
+        {
+            "type": "organization",
+            "name": "Tech Corp",
+            "industry": "Technology",
+            "employees": 500
+        },
+        {
+            "type": "organization",
+            "name": "Food Inc",
+            "industry": "Food & Beverage",
+            "employees": 1000
+        },
+        {
+            "type": "organization",
+            "name": "HealthCo",
+            "industry": "Healthcare",
+            "employees": 300
+        },
+         {
+            "type": "people",
+            "first_name": "Michael",
+            "last_name": "Johnson",
+            "age": 35,
+            "email": "michael.johnson@example.com"
+        },
+        {
+            "type": "people",
+            "first_name": "Samantha",
+            "last_name": "Wright",
+            "age": 24,
+            "email": "samantha.wright@example.com"
+        },
+        {
+            "type": "people",
+            "first_name": "Robert",
+            "last_name": "Miller",
+            "age": 55,
+            "email": "robert.miller@example.com"
+        },
+        {
+            "type": "address",
+            "house_number": "256",
+            "postcode": "11234",
+            "city": "Miami",
+            "state": "FL"
+        },
+        {
+            "type": "address",
+            "house_number": "101",
+            "postcode": "77005",
+            "city": "Houston",
+            "state": "TX"
+        },
+        {
+            "type": "address",
+            "house_number": "89A",
+            "postcode": "94110",
+            "city": "San Francisco",
+            "state": "CA"
+        },
+        {
+            "type": "organization",
+            "name": "EcoBuild",
+            "industry": "Construction",
+            "employees": 120
+        },
+        {
+            "type": "organization",
+            "name": "FinancePlus",
+            "industry": "Banking",
+            "employees": 1500
+        },
+        {
+            "type": "organization",
+            "name": "TravelScape",
+            "industry": "Tourism",
+            "employees": 80
+        },
+        {
+            "type": "organization",
+            "name": "AutoMoto",
+            "industry": "Automotive",
+            "employees": 700
+        },
+        {
+            "type": "people",
+            "first_name": "Lucia",
+            "last_name": "Gonzalez",
+            "age": 29,
+            "email": "lucia.gonzalez@example.com"
+        },
+        {
+            "type": "address",
+            "house_number": "18B",
+            "postcode": "90210",
+            "city": "Beverly Hills",
+            "state": "CA"
+        },
+        {
+            "type": "organization",
+            "name": "BookWorld",
+            "industry": "Retail",
+            "employees": 50
+        }
+    ]
+}
